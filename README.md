@@ -1,4 +1,4 @@
-•	Enviro Cartoon Kids Tech
+# Enviro Cartoon Kids Tech
 
 Enviro Cartoon Kids Tech is an innovative digital education initiative under MS Digital that uses animation, storytelling, and modern technology to teach children about climate change, environmental protection, and sustainability.
 
@@ -10,10 +10,12 @@ In the future, the initiative will expand into a mobile learning app and educati
 
 We also explore AI and open-source tools to improve learning experiences.
 
-•	YouTube Channel
+## YouTube Channel
 https://www.youtube.com/watch?v=J4DzL_ziakY
 
-•	Project Pitch Summary
+---
+
+## Project Pitch Summary
 
 Enviro Cartoon Kids Tech focuses on educating children about climate change, environmental protection, and sustainability through animation and storytelling.
 
@@ -23,11 +25,11 @@ The initiative currently shares content via YouTube and plans to expand into a m
 
 We also explore emerging technologies such as artificial intelligence and open-source tools to enhance learning experiences and scalability.
 
-•	Expected Impact
+## Expected Impact
 - Increased climate awareness among children
 - Improved environmental behavior from an early age
 - Accessible education for underserved communities
 - Scalable digital learning solution
 
-•	Vision
+## Vision
 To inspire a generation of environmentally conscious children empowered to protect the planet through knowledge and action.
